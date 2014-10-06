@@ -1,4 +1,4 @@
 tildeclubdavid
 ==============
 
-My tilde club page
+My tilde club page and related utilities. Patches welcome!
